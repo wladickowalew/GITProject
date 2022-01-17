@@ -1,7 +1,5 @@
 public class Main {
     public static void main(String[] args) {
-        System.out.print("Hello Git!");
-        System.out.println("For Second commit");
-        System.out.println("HelloGitHub");
+        System.out.print("Changes from GitHub");
     }
 }
